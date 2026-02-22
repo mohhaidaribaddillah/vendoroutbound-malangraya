@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vendoroutbound-malangraya.vercel.app/images/logo.png</image:loc>
+      <image:title>Logo Gemilang Katun Outbound</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/blog.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/tips-memilih-vendor-outbound-terpercaya-malang-raya.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:title>Tips Memilih Vendor Outbound Terpercaya di Malang Raya</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/manfaat-team-building-meningkatkan-produktivitas-perusahaan.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:title>Manfaat Team Building untuk Meningkatkan Produktivitas Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/lokasi-outbound-terbaik-batu-malang.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:title>Lokasi Outbound Terbaik di Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/panduan-lengkap-persiapan-outbound-perusahaan.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1506869640319-fe1a24fd76cb?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:title>Panduan Lengkap Persiapan Outbound Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vendoroutbound-malangraya.vercel.app/ide-games-outbound-seru-gathering-perusahaan.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?w=1200&amp;h=630&amp;fit=crop</image:loc>
+      <image:title>Ide Games Outbound Seru untuk Gathering Perusahaan</image:title>
+    </image:image>
+  </url>
+
+</urlset>
